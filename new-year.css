@@ -104,6 +104,7 @@ margin-right: 100px;
 .watch-section{
     text-align: center;
     margin-top: 130px;
+      background-image: linear-gradient(rgba(4, 12, 26, 0.575), rgba(189, 210, 218, 0.267));
     background-image: url('./images/watch.png');
     background-repeat: no-repeat;
     width: 1140px; 
